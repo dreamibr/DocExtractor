@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<SPDisposeCheckSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AssembliesToAnalyze>
+    <ProjectAssemblyInfo>
+      <AssemblyPath>C:\Users\Administrator\Desktop\DocExtractor2\DocExtractor2\obj\x86\Debug\DocExtractor2.exe</AssemblyPath>
+      <ProjectUniqueName>DocExtractor2\DocExtractor.csproj</ProjectUniqueName>
+    </ProjectAssemblyInfo>
+  </AssembliesToAnalyze>
+  <IsOn>false</IsOn>
+  <Debug>false</Debug>
+  <V1>false</V1>
+  <ShowUndocumented>false</ShowUndocumented>
+  <OnlyUndocumented>false</OnlyUndocumented>
+  <TreatProblemsAs>Warnings</TreatProblemsAs>
+  <PathToSPDisposeCheck>C:\Program Files (x86)\Microsoft\SharePoint Dispose Check\SPDisposeCheck.exe</PathToSPDisposeCheck>
+  <ExecuteAfterBuild>true</ExecuteAfterBuild>
+</SPDisposeCheckSettings>
